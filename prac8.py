@@ -1,4 +1,4 @@
-"""20CE024 - BHAVDEEP DHADUK
+""" BHAVDEEP DHADUK 20CE024
 Write a Program in Python to implement a Stack Data Structure using Class and Objects, with push, pop, and traversal method."""
 class stack:
     def __init__(self):
